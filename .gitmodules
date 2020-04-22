@@ -1,0 +1,3 @@
+[submodule "SKU110K_CVPR19"]
+	path = SKU110K_CVPR19
+	url = https://github.com/kkalla/SKU110K_CVPR19.git
