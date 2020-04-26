@@ -1,6 +1,7 @@
 [submodule "SKU110K_CVPR19"]
 	path = SKU110K_CVPR19
 	url = https://github.com/kkalla/SKU110K_CVPR19.git
+	branch = customized
 [submodule "retinanet-examples"]
 	path = retinanet-examples
-	url = ./retinanet-examples
+	url = https://github.com/NVIDIA/retinanet-examples.git
