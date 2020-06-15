@@ -3,3 +3,9 @@
 	url = https://github.com/kkalla/SKU110K_CVPR19.git
 	branch = customized
 
+[submodule "retinanet-examples"]
+	path = retinanet-examples
+	url = https://github.com/kkalla/retinanet-examples.git
+[submodule "anchor-optimization"]
+	path = anchor-optimization
+	url = https://github.com/martinzlocha/anchor-optimization.git
